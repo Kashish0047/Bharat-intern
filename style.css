@@ -1,0 +1,123 @@
+.header{ display: flex;
+flex-direction: row;
+margin-top: 40px;
+margin-left: 120px;
+opacity: 1;
+}
+
+.dropdown{ margin-left: 0px;
+margin-bottom: 40px;}
+
+.language{ width: 200px;
+background-color: black;
+opacity: 0.8;}
+
+.sign{ margin-left: 10px;}
+
+.body{ background-image: url(image.jpg);
+background-size: cover;
+height: 100%;
+opacity: 0.9;
+}
+
+.logo{background-color: black;
+width: 100px;}
+
+.main{ color: white;
+margin: auto;
+margin-left: 290px;
+margin-top: 200px;}
+
+a{text-decoration: none;
+color: black;
+font-size: 30px;}
+
+h2{ margin-left: 260px;
+font-size: 25px;
+font-family: 100;}
+
+h1{ font-weight: 700;
+font-size: 50px;
+margin-right: 30px;}
+
+.join{ margin-top: 30px;
+}
+
+.rupees{ margin-left: 230px;}
+
+button{ background-color: red;
+margin-left: 500px;
+margin-top: 30px;
+width: 320px;}
+
+h3{font-size: 20px;}
+
+.icon{display: inline;
+margin-left: 280px;
+margin-bottom: 30px;}
+
+.info{color: white;
+background-color: black;
+padding: 40px;
+margin-top: 10px;
+align-items: center;
+display: flex;
+justify-content: center;
+}
+
+.enjoy{ margin-left: 50px;
+margin-top: 10px;}
+
+.watch{ margin: 6px;}
+
+.download{ background-color: black;
+color: white;
+display: flex;
+margin-top: 10px;
+justify-content: center;
+align-items: center;
+
+}
+
+.shows{ display: inline-block;
+justify-content: center;
+margin-right: 40px;}
+
+.save{ margin-right: 30px;}
+
+.tv-1{
+margin-bottom: 40px;
+margin-left: 10px;}
+
+.vid{margin-right: 100px;
+    margin-bottom: 400px;
+position: absolute;
+}
+
+.watch-everywhere{ color: white;
+    background-color: black;
+    padding: 40px;
+    margin-top: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.stream{margin-top: 150px;
+margin-right: 200px;}
+
+.vid-2{ position: absolute;}
+
+.img-2{margin-top: 60px;}
+
+everywhere{ display: inline-block;
+margin-left: 100px;}
+
+.child{background-color: black;
+color: white;
+margin-top: -40px;
+}
+
+.kids-section{float: right;
+margin-top: 150px;}
