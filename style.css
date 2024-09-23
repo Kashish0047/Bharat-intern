@@ -3,6 +3,7 @@ flex-direction: row;
 margin-top: 40px;
 margin-left: 120px;
 opacity: 1;
+background-color: black;
 }
 
 .dropdown{ margin-left: 0px;
@@ -16,6 +17,7 @@ opacity: 0.8;}
 
 .body{ background-image: url(image.jpg);
 background-size: cover;
+      
 height: 100%;
 opacity: 0.9;
 }
@@ -26,7 +28,8 @@ width: 100px;}
 .main{ color: white;
 margin: auto;
 margin-left: 290px;
-margin-top: 200px;}
+margin-top: 200px;
+     background-color: black;}
 
 a{text-decoration: none;
 color: black;
